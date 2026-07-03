@@ -9,7 +9,6 @@
 
 [+] Security Ops: Executing 15-second system audits & vulnerability neutralization.
 
-[+] The Digital Guardian: Advanced privacy protection & enterprise data defense.
 
 [+] Hardware & Logic: Custom-engineered terminals for rapid penetration testing.
 
